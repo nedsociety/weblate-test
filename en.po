@@ -8,7 +8,7 @@ msgstr ""
 #: src-en/data/autoBlueprints.xml.append:6997
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MU_CIVILIAN_SCOUT\"]/class"
-msgstr "Union Surveyor"
+msgstr "Union Surveyorr"
 
 #: src-en/data/autoBlueprints.xml.append:7017
 msgid ""
