@@ -22,7 +22,7 @@ msgstr "한국어2"
 
 #: src-en/data/autoBlueprints.xml.append:7039
 msgid "id3"
-msgstr "한국어3"
+msgstr "한국어33"
 
 #: src-en/data/autoBlueprints.xml.append:7060
 msgid "id4"
